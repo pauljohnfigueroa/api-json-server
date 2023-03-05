@@ -1,0 +1,19 @@
+{
+  "name": "api-json-server",
+  "version": "1.0.0",
+  "description": "json-server mock backend api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauljohnfigueroa/api-json-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauljohnfigueroa/api-json-server/issues"
+  },
+  "homepage": "https://github.com/pauljohnfigueroa/api-json-server#readme"
+}
