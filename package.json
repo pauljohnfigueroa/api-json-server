@@ -4,7 +4,7 @@
   "description": "json-server mock backend api",
   "main": "server.js",
   "scripts": {
-    "start": "json-server db.json -m ./node_modules/json-server-auth",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
